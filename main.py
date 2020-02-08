@@ -15,13 +15,7 @@ get_ipython().run_line_magic('matplotlib', 'inline')
 # In[2]:
 
 
-dataset = pd.read_csv('student_scores.csv')
-
-
-# # EDA
-
-# In[3]:
-
+X_test
 
 dataset.shape
 
